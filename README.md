@@ -9,22 +9,22 @@ It can be used to generate strong passwords for any online.
 - Generate passwords with custom length.
 - Include numbers and special characters in passwords.
 
-### Explore the live version [here]().
+### Explore the live version [here](https://iamsakshirai-password-generator.vercel.app/).
 
 
 ## Installation and Setup
 
 1. Clone the repository:
-- git clone 
+- git clone https://github.com/ImSakshiRai/PASSWORD-GENERATOR
 2. Navigate to the project directory: cd password-generator
 
 3.  Install dependencies using npm or yarn:
 - Using npm: npm install
-# or
+   or
 - yarn
 4. Start the development server: 
 - npm run dev
-# or
+  or
 - yarn dev
 - This will start the development server. Open http://localhost:3000 in your browser to view the application.       
 - Generate passwords by adjusting the length and selecting options for including numbers and special characters.
@@ -33,7 +33,7 @@ It can be used to generate strong passwords for any online.
 ## Deployment
 To deploy this app, you will need to build it first by running
 - npm run build
-# or
+  or
 - yarn build
 
 ## Technologies Used
