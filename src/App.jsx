@@ -98,7 +98,7 @@ const copyToClipBoard = useCallback(()=>{
     </div>
 
     {/* Footer Section */}
-    <footer className="text-center text-gray-500 text-sm mt-80 py-4 bg-gray-800">
+    <footer className="text-center text-gray-500 text-sm mt-80 py-4">
         &copy; 2024 I am Sakshi Rai. All Rights Reserved.
       </footer>
     </> 

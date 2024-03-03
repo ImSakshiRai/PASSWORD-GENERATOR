@@ -40,9 +40,7 @@ To deploy this app, you will need to build it first by running
 - Vite + React
 - Tailwind CSS
 
-## Contributing
- 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
+
 
 
 
